@@ -1,10 +1,21 @@
 fn main() {
-    let number = 3;
-    if number < 5 {
-        println!("条件为 true");
-    } else {
-        println!("条件为 false");
+    //取值
+    let a = [10, 20, 30, 40, 50];
+    for i in a.iter() {
+        println!("值为 : {}", i);
     }
+    // let mut number = 1;
+    // while number != 4 {
+    //     println!("{}", number);
+    //     number += 1;
+    // }
+    // println!("EXIT");
+    // let number = 3;
+    // if number < 5 {
+    //     println!("条件为 true");
+    // } else {
+    //     println!("条件为 false");
+    // }
     // fn five() -> i32 {
     //     5
     // }
