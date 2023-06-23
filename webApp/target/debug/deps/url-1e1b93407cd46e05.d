@@ -1,0 +1,13 @@
+/home/smecx/Code/RustCode/webApp/target/debug/deps/url-1e1b93407cd46e05.rmeta: /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/lib.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/encoding.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/host.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/origin.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/path_segments.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/parser.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/slicing.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/form_urlencoded.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/quirks.rs
+
+/home/smecx/Code/RustCode/webApp/target/debug/deps/url-1e1b93407cd46e05.d: /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/lib.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/encoding.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/host.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/origin.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/path_segments.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/parser.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/slicing.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/form_urlencoded.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/quirks.rs
+
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/lib.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/encoding.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/host.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/origin.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/path_segments.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/parser.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/slicing.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/form_urlencoded.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/quirks.rs:
