@@ -13,7 +13,7 @@ fn main() {
         "/",
         middleware! { |_, response|
             let mut data = HashMap::new();
-            data.insert("name", "user");//传入值
+            data.insert("name", "老白");//传入值
             return response.render("examples/assets/index.tpl", &data);
         },
     );

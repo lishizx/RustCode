@@ -1,0 +1,12 @@
+/mnt/e/RustCode/blog_os/target/debug/deps/libthiserror_impl-bcdef0a6040c01d3.so: /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/lib.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/ast.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/attr.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/expand.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/fmt.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/generics.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/prop.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/valid.rs
+
+/mnt/e/RustCode/blog_os/target/debug/deps/thiserror_impl-bcdef0a6040c01d3.d: /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/lib.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/ast.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/attr.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/expand.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/fmt.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/generics.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/prop.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/valid.rs
+
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/lib.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/ast.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/attr.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/expand.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/fmt.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/generics.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/prop.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.40/src/valid.rs:

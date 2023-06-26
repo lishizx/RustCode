@@ -1,0 +1,12 @@
+/mnt/e/RustCode/blog_os/target/debug/deps/async_lock-c55790d421315010.rmeta: /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/lib.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/barrier.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/mutex.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/once_cell.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/rwlock.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/semaphore.rs
+
+/mnt/e/RustCode/blog_os/target/debug/deps/libasync_lock-c55790d421315010.rlib: /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/lib.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/barrier.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/mutex.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/once_cell.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/rwlock.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/semaphore.rs
+
+/mnt/e/RustCode/blog_os/target/debug/deps/async_lock-c55790d421315010.d: /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/lib.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/barrier.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/mutex.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/once_cell.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/rwlock.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/semaphore.rs
+
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/lib.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/barrier.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/mutex.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/once_cell.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/rwlock.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-lock-2.7.0/src/semaphore.rs:

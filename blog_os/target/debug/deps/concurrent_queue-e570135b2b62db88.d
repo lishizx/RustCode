@@ -1,0 +1,11 @@
+/mnt/e/RustCode/blog_os/target/debug/deps/concurrent_queue-e570135b2b62db88.rmeta: /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/lib.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/bounded.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/single.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/unbounded.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/sync.rs
+
+/mnt/e/RustCode/blog_os/target/debug/deps/libconcurrent_queue-e570135b2b62db88.rlib: /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/lib.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/bounded.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/single.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/unbounded.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/sync.rs
+
+/mnt/e/RustCode/blog_os/target/debug/deps/concurrent_queue-e570135b2b62db88.d: /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/lib.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/bounded.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/single.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/unbounded.rs /home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/sync.rs
+
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/lib.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/bounded.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/single.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/unbounded.rs:
+/home/smecx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/sync.rs:
