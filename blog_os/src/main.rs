@@ -8,7 +8,7 @@ use core::panic::PanicInfo;
 fn panic(_info: &PanicInfo) -> ! {
     loop {}
 }
-static HELLO: &[u8] = b"Hello World!";
+static HELLO: &[u8] = b"Welcome to Hongki";
 
 #[no_mangle] // 不重整函数名
 pub extern "C" fn _start() -> ! {
